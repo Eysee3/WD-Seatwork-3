@@ -71,7 +71,6 @@ body {
 }
 
 .nav-links-static-header1 {
-    list-style: none;
     display: flex;
     gap: 20px;
 }
@@ -113,10 +112,6 @@ body {
     flex-direction: row;
     justify-content: center;
     width: 100%;
-}
-
-.nav-links-static-header2 li {
-    margin: 0 10px;
 }
 
 .nav-links-static-header2 a {
@@ -197,10 +192,6 @@ body {
     gap: 20px;
 }
 
-.site-static-header3 li {
-    margin: 0;
-}
-
 .site-static-header3 a {
     text-decoration: none;
     color: #fffbfb;
@@ -239,10 +230,6 @@ body {
     padding: 0;
     display: flex;
     gap: 20px;
-}
-
-.nav-links-static-header4 li {
-    display: inline-block;
 }
 
 .nav-links-static-header4 a {
@@ -308,10 +295,6 @@ nav {
     padding: 0;
     display: flex;
     gap: 20px;
-}
-
-.nav-links-static-header5 li {
-    display: inline-block;
 }
 
 .nav-links-static-header5 a {
@@ -408,17 +391,17 @@ body {
     gap: 20px;
 }
 
-.nav-links-dynamic-header1 a {/*test*/
+.nav-links-dynamic-header1 a{
     text-decoration: none;
     font-family: 'Black Ops One';
     color: #efd9d9;
     font-size: 1em;
-    transition: color 0.3s ease;
+    transition: color ease;
 }
 
 .nav-links-dynamic-header1 a:hover {
   color: #f366aa;
-  animation: nav-link-hover 0.3s ease;
+  animation: nav-link-hover 1.0s ease;
 }
 
 @keyframes nav-link-hover {
@@ -490,11 +473,6 @@ body {
   width: 100%;
   margin: 0;
   padding: 0;
-}
-
-.nav-links-dynamic-header2 li {
-  margin: 0 20px;
-  position: relative;
 }
 
 .nav-links-dynamic-header2 a {
@@ -605,10 +583,6 @@ body {
     gap: 20px;
   }
   
-  .site-dynamic-header3 li {
-    margin: 0;
-  }
-  
   .site-dynamic-header3 a {
     text-decoration: none;
     color: #fffbfb;
@@ -663,10 +637,6 @@ body {
     padding: 0;
     display: flex;
     gap: 20px;
-}
-
-.nav-links-dynamic-header4 li {
-    display: inline-block;
 }
 
 .nav-links-dynamic-header4 a {
@@ -758,12 +728,9 @@ nav {
     gap: 20px;
 }
 
-.nav-links-dynamic-header5 li {
-    display: inline-block;
-}
 
 .nav-links-dynamic-header5 a {
-    color: rgb(232, 232, 232);
+    color: rgb(217, 6, 6);
     text-decoration: none;
     font-size: 16px;
     padding: 10px 15px;

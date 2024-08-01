@@ -128,3 +128,8 @@ WD-ProjectName
 |Header 4 Layout|Layout|https://viveresalon.com/|
 |Header 5 Layout|Layout|https://www.pandptattoo.com/gallery|
 |Dynamic Logo Header 5 animation| Glow Effect when Hovered| https://codepen.io/rhenaldkarrel-the-bold/pen/OJxabbB|
+|Footer 1 layout| Layout| https://artistree.io/ |
+|Footer 2 layout| Layout| https://www.bandsintown.com/c/manila-philippines |
+|Footer 3 layout| Layout| https://ghost-official.com/ |
+|Footer 4 layout| Layout| https://www.davidsalon.com.ph/ |
+|Footer 2 Nav Links | Animation| https://codepen.io/lynnewritescode/pen/zMmyJW|
