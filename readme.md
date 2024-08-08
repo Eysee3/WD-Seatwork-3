@@ -60,18 +60,19 @@
 Description of the project in details.
 
 Guiding Question:
-- What is the project? Headers and Footers
+- What is the project? Making of Static and Animated Headers and Footers
 - Whats the purpose? To see the capabilities of students in  creating headers and footers
-- What are key components?
-- What technology used and how it is used? Html, Css, Javascript, Google Fonts
+- What are key components? Various designs and animations for both headers and footers, having functioning buttons and search bars.
+- What technology used and how it is used? Html & CSS
 
 
 ### Key Components
 <!-- TODO: List of Key Components -->
 <!-- The following are just sample -->
-- MultiPage Website/Single Page Website
-- Parallax transition
-- Transactional
+- MultiPage Website
+- Landing Page with Animations
+- Static and Animated Headers
+- Static and Animated Footers
 
 ### Technology
 <!-- TODO: List of Technology Used -->
